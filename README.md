@@ -11,5 +11,4 @@ My name is Teryn, but you can call me T! :space_invader:
 - 🦇 I love dark music and I'm really into darkwave/synthwave bands.
 - 😁 I'm really friendly and talkative and I love learning new things and talking to people.
 
-[![Teryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev0T&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0T&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
