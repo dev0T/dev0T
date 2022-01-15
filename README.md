@@ -2,7 +2,7 @@
 
 My name is Teryn, but you can call me T! :space_invader:
 
-- 👉 Non-binary - I prefer to be addressed by they/them (I won't stress over pronoums)
+- 👉 Non-binary - I prefer to be addressed by they/them (I won't stress over pronouns)
 - 🎓 I'm a Computer Science student at Langara College (Vancouver, CA 🇨🇦), graduating in August 2022 with a citation in Full Stack Development!
 - 🎓 I studied Physics at the University of Brasília (Brasília, BR 🇧🇷).
 - ✈️ I moved from Brazil to Canada in December 2019.
