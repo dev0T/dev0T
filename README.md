@@ -9,5 +9,3 @@ My name is Teryn, but you can call me T! :space_invader:
 - 🌱 I started having an interest on full stack development through MERN and now I'm enthusiastic about using React with TypeScript and NestJS!
 - 🦇 I love dark music and I'm really into darkwave/synthwave bands.
 - 😁 I'm really friendly and talkative and I love learning new things and talking to people.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0T&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
