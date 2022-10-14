@@ -2,10 +2,10 @@
 
 My name is Teryn, but you can call me T! :space_invader:
 
-- 👉 Non-binary - I prefer to be addressed by they/them (I won't stress over pronouns)
-- 🎓 I'm a Computer Science student at Langara College (Vancouver, CA 🇨🇦), graduating in August 2022 with a citation in Full Stack Development!
-- 🎓 I studied Physics at the University of Brasília (Brasília, BR 🇧🇷).
-- ✈️ I moved from Brazil to Canada in December 2019.
-- 🌱 I started having an interest on full stack development through MERN and now I'm enthusiastic about using React with TypeScript and NestJS!
-- 🦇 I love dark music and I'm really into darkwave/synthwave bands.
-- 😁 I'm really friendly and talkative and I love learning new things and talking to people.
+- 👉 Non-binary - any pronouns
+- 🎓 Studied Physics at the University of Brasília (Brasília, BR 🇧🇷).
+- ✈️ Moved from Brazil to Canada in December 2019.
+- 🎓 Graduated with distinction from Langara College in August 2022 (Vancouver, CA 🇨🇦) - Computer Science & Full Stack Web Development
+- 🌱 Started having an interest on full stack development through MERN and now I'm enthusiastic about using React with TypeScript and NestJS!
+- 🦇 Love dark music and I'm really into darkwave/synthwave bands.
+- 😁 Really friendly and talkative and I love learning new things.
