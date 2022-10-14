@@ -8,4 +8,4 @@ My name is Teryn, but you can call me T! :space_invader:
 - 🎓 Graduated with distinction from Langara College in August 2022 (Vancouver, CA 🇨🇦) - Computer Science & Full Stack Web Development
 - 🌱 Started having an interest on full stack development through MERN and now I'm enthusiastic about using React with TypeScript and NestJS!
 - 🦇 Love dark music and I'm really into darkwave/synthwave bands.
-- 😁 Really friendly and talkative and I love learning new things.
+- 😁 Friendly and I love learning new things.
