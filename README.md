@@ -23,6 +23,7 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 ![GraphQL](https://img.shields.io/badge/graphql-informational?style=for-the-badge&logo=graphql&color=151515)
 <br/>
 ![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=mysql&color=151515)
+![Bash](https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=gnu-bash&color=151515)
 
 <br/>
 
@@ -46,7 +47,6 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 ![Postman](https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&color=151515)
 ![Docker](https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&color=151515)
 <br/>
-![Shell Script](./assets/shell.svg)
 ![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&color=151515)
 ![GitHub](https://img.shields.io/badge/github-informational?style=for-the-badge&logo=github&color=151515)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudio_Code-informational?style=for-the-badge&logo=visual-studio-code&color=151515)
