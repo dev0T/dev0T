@@ -1,13 +1,13 @@
-# Howdy!
+## Howdy!
 
-My name is Teryn, but you can call me T! I graduated recently from Langara College (August, 2022) in Vancouver, CA 🇨🇦. 
+My name is Teryn, but you can call me T! I graduated recently from Langara College (August, 2022) in Vancouver, CA 🇨🇦.
 I got a degree in Computer Science and a citation in Full Stack Web Development. GPA: 3.92
 
 - 🖋️ My pronouns are they/them/any
-- 🧋 I am fueled by bubble tea
 - This README.md is a work in progress!
 
 ### Languages
+
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
@@ -37,27 +37,14 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
-
-
-
-
-
-
-
-
-
-
-
 <details>
   <summary>LeetCode</summary>
  
   [![](https://leetcard.jacoblin.cool/dev0T?ext=heatmap)](https://leetcode.com/dev0T/)
 </details>
 
-
-
 <p align="center">
-  <a href="#"><img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" href="#"></a>
+  <a href="#"><img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"></a>
+  <br>
+  <a href="#"><img src="./assets/mewo.gif"></a>
 </p>
-
-
