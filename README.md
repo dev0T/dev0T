@@ -46,12 +46,11 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 ![Jest](./assets/images/jest.svg)
 ![Cypress](./assets/images/cypress.svg)
 ![Postman](./assets/images/postman.svg)
-<br/>
 ![Docker](./assets/images/docker.svg)
+<br/>
 ![Git](./assets/images/git.svg)
 ![GitHub](./assets/images/github.svg)
 ![Visual Studio Code](./assets/images/vscode.svg)
-<br/>
 ![Ubuntu](./assets/images/ubuntu.svg)
 
 
@@ -73,7 +72,7 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 
 <!-- Credits
 
-Icons:
-https://github.com/Ileriayo/markdown-badges
+Badges - shields.io
+Icons - simpleicons
 
  -->
