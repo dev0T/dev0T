@@ -1,41 +1,61 @@
 ## Howdy!
 
+<hr/>
+
 My name is Teryn, but you can call me T! I graduated recently from Langara College (August, 2022) in Vancouver, CA 🇨🇦.
 I got a degree in Computer Science and a citation in Full Stack Web Development. GPA: 3.92
 
+<br/>
+
 - 🖋️ My pronouns are they/them/any
-- This README.md is a work in progress!
+- This README.md is a work in progress!]
 
-### Languages
+<br/>
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+<hr/>
+
+### Languages & Markups
+
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=151515)
+![CSS3](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&color=151515)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&color=151515)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&color=151515)
+![GraphQL](https://img.shields.io/badge/graphql-informational?style=for-the-badge&logo=graphql&color=151515)
+<br/>
+![SQL](https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=mysql&color=151515)
+
+<br/>
 
 ### Technologies
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
-<br>
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
-[![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)](#)
+![React](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&color=151515)
+![Redux](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&color=151515)
+![Node.JS](https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&color=151515)
+![Express](https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&color=151515)
+![ApolloGraphQL](https://img.shields.io/badge/apollographql-informational?style=for-the-badge&logo=apollographql&color=151515)
+<br/>
+![MongoDB](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&color=151515)
+
+<br/>
 
 ### Tools
 
-[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
-[![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
-<br>
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-<br>
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+![ESLint](https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&color=151515)
+![Jest](https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&color=151515)
+![Cypress](https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&color=151515)
+![Postman](https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&color=151515)
+![Docker](https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&color=151515)
+<br/>
+![Shell Script](./assets/shell.svg)
+![Git](https://img.shields.io/badge/git-informational?style=for-the-badge&logo=git&color=151515)
+![GitHub](https://img.shields.io/badge/github-informational?style=for-the-badge&logo=github&color=151515)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudio_Code-informational?style=for-the-badge&logo=visual-studio-code&color=151515)
+<br/>
+![Ubuntu](https://img.shields.io/badge/ubuntu-informational?style=for-the-badge&logo=ubuntu&color=151515)
+
+<br/>
+
+<hr/>
 
 <details>
   <summary>LeetCode</summary>
@@ -44,7 +64,14 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 </details>
 
 <p align="center">
-  <a href="#"><img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"></a>
-  <br>
-  <a href="#"><img src="./assets/mewo.gif"></a>
+  <img src="./assets/blackmagic.svg">
+  <br/>
+  <img src="./assets/mewo.gif">
 </p>
+
+<!-- Credits
+
+Icons:
+https://github.com/Ileriayo/markdown-badges
+
+ -->
