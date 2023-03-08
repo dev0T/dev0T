@@ -8,7 +8,7 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 <br/>
 
 - 🖋️ My pronouns are they/them/any
-- This README.md is a work in progress!]
+- This README.md is a work in progress!
 
 <br/>
 
@@ -36,13 +36,14 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 ![ApolloGraphQL](./assets/images/apollographql.svg)
 <br/>
 ![MongoDB](./assets/images/mongodb.svg)
+![Redis](https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&color=151515)
 
 <br/>
 
 ### Tools
 
 ![ESLint](./assets/images/eslint.svg)
-![Prettier](https://img.shields.io/badge/prettier-informational?style=for-the-badge&logo=prettier&color=151515)
+![Prettier](./assets/images/prettier.svg)
 ![Jest](./assets/images/jest.svg)
 ![Cypress](./assets/images/cypress.svg)
 ![Postman](./assets/images/postman.svg)
@@ -52,7 +53,6 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 ![GitHub](./assets/images/github.svg)
 ![Visual Studio Code](./assets/images/vscode.svg)
 ![Ubuntu](./assets/images/ubuntu.svg)
-
 
 <br/>
 
@@ -74,5 +74,5 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 
 Badges - shields.io
 Icons - simpleicons
-
+https://img.shields.io/badge/<NAME>-informational?style=for-the-badge&logo=<NAME>&color=151515
  -->
