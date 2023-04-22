@@ -1,8 +1,15 @@
 ## Hey!
 
-My name is Teryn, but you can call me T! I'm a web developer. I am currently having a blast contributing with Open Source!
+<br/>
+
+My name is Teryn, but you can call me T! I'm a web developer.
+I am currently having a blast contributing with Open Source!
+
+<br/>
 
 <hr/>
+
+<br/>
 
 ### Languages & Markups
 
@@ -11,7 +18,6 @@ My name is Teryn, but you can call me T! I'm a web developer. I am currently hav
 ![JavaScript](./assets/images/js.svg)
 ![TypeScript](./assets/images/ts.svg)
 ![GraphQL](./assets/images/graphql.svg)
-<br/>
 ![SQL](./assets/images/sql.svg)
 ![Bash](./assets/images/bash.svg)
 
@@ -26,7 +32,6 @@ My name is Teryn, but you can call me T! I'm a web developer. I am currently hav
 ![Next.js](https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&color=151515)
 ![ApolloGraphQL](./assets/images/apollographql.svg)
 ![Node.JS](./assets/images/nodejs.svg)
-<br/>
 ![Express](./assets/images/express.svg)
 ![Mongoose](./assets/images/mongoose.svg)
 ![MongoDB](./assets/images/mongodb.svg)
@@ -44,15 +49,12 @@ My name is Teryn, but you can call me T! I'm a web developer. I am currently hav
 ![Storybook](https://img.shields.io/badge/storybook-informational?style=for-the-badge&logo=storybook&color=151515)
 ![Jest](./assets/images/jest.svg)
 ![Cypress](./assets/images/cypress.svg)
-<br/>
 ![Postman](./assets/images/postman.svg)
 ![Docker](./assets/images/docker.svg)
 ![Git](./assets/images/git.svg)
 ![GitHub](./assets/images/github.svg)
 ![Visual Studio Code](./assets/images/vscode.svg)
 ![Ubuntu](./assets/images/ubuntu.svg)
-
-<br/>
 
 <hr/>
 
