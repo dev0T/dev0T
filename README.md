@@ -18,7 +18,7 @@ My name is Teryn, but you can call me T! I'm a web developer.
 
 - Resume Builder: Building an application that allows you to input all your information and renders a PDF ready for job applications! (React, TypeScript, TailwindCSS, DaisyUI, React-PDF)
 - Actively contributing with React-DaisyUI component library. 🌼
-- Volunteer Front End Developer at ![Dinify](https://www.dinify.io/).
+- Volunteer Front End Developer at Dinify.
 
 <br/>
 
