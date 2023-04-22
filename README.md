@@ -1,16 +1,6 @@
-## Howdy!
+## Hey!
 
-<hr/>
-
-My name is Teryn, but you can call me T! I graduated recently from Langara College (August, 2022) in Vancouver, CA 🇨🇦.
-I got a degree in Computer Science and a citation in Full Stack Web Development. GPA: 3.92
-
-<br/>
-
-- 🖋️ My pronouns are they/them/any
-- This README.md is a work in progress!
-
-<br/>
+My name is Teryn, but you can call me T! I'm a web developer. I am currently having a blast contributing with Open Source!
 
 <hr/>
 
@@ -31,10 +21,13 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 
 ![React](./assets/images/react.svg)
 ![Redux](./assets/images/redux.svg)
-![Node.JS](./assets/images/nodejs.svg)
-![Express](./assets/images/express.svg)
+![PostCSS](https://img.shields.io/badge/postcss-informational?style=for-the-badge&logo=postcss&color=151515)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&color=151515)
+![Next.js](https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&color=151515)
 ![ApolloGraphQL](./assets/images/apollographql.svg)
+![Node.JS](./assets/images/nodejs.svg)
 <br/>
+![Express](./assets/images/express.svg)
 ![Mongoose](./assets/images/mongoose.svg)
 ![MongoDB](./assets/images/mongodb.svg)
 ![Redis](./assets/images/redis.svg)
@@ -45,13 +38,15 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 
 ### Tools
 
+![Vite](https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&color=151515)
 ![ESLint](./assets/images/eslint.svg)
 ![Prettier](./assets/images/prettier.svg)
+![Storybook](https://img.shields.io/badge/storybook-informational?style=for-the-badge&logo=storybook&color=151515)
 ![Jest](./assets/images/jest.svg)
 ![Cypress](./assets/images/cypress.svg)
+<br/>
 ![Postman](./assets/images/postman.svg)
 ![Docker](./assets/images/docker.svg)
-<br/>
 ![Git](./assets/images/git.svg)
 ![GitHub](./assets/images/github.svg)
 ![Visual Studio Code](./assets/images/vscode.svg)
@@ -75,7 +70,7 @@ I got a degree in Computer Science and a citation in Full Stack Web Development.
 
 <!-- Credits
 
-Badges - shields.io
-Icons - simpleicons
-https://img.shields.io/badge/<NAME>-informational?style=for-the-badge&logo=<NAME>&color=151515
+Badges - shields.io - https://img.shields.io/badge/<NAME>-informational?style=for-the-badge&logo=<NAME>&color=151515
+Icons - simpleicons - https://simpleicons.org/
+https://img.shields.io/badge/.env-informational?style=for-the-badge&logo=.env&color=151515
  -->
