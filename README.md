@@ -8,16 +8,17 @@ My name is Teryn, but you can call me T! I'm a web developer.
 
 - 🎓 Graduated from Langara College's Computer Science program.
 - 🤓 Currently being mentored in Front End Development.
-- 📈 I am growth driven, always looking forward to contribute and learn.
+- 📈 I am growth driven, always looking forward to learn and contribute.
 - 🍜 Ramen is my favorite dish of all time.
 - ☕ Lots of coffee knowledge after 2+ years working at Starbucks.
 - 🎮 In my free time I love playing video games with my spouse. Specially Final Fantasty XIV!
+- 🖼 My profile picture was drawn by a friend and is a mix of me and the Magic The Gathering's character Teysa Karlov.
 
 ### Current projects:
 
 - Resume Builder: Building an application that allows you to input all your information and renders a PDF ready for job applications! (React, TypeScript, TailwindCSS, DaisyUI, React-PDF)
-- Actively contributing with React-DaisyUI component library 🌼
-- Volunteer Front End Developer at ![Dinify](https://www.dinify.io/)
+- Actively contributing with React-DaisyUI component library. 🌼
+- Volunteer Front End Developer at ![Dinify](https://www.dinify.io/).
 
 <br/>
 
