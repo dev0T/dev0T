@@ -2,11 +2,11 @@
 
 <br/>
 
-My name is Teryn, but you can call me T! I'm a web developer.
+My name is Teryn, but you can call me T!
 
 ### If you are curious about me:
 
-- 💼 Full Stack Web Developer Developer at Dinify.
+- 💼 Full Stack Web Developer at Dinify.
 - 🎓 Graduated from Langara College's Computer Science program.
 - 🤓 Currently being mentored in Front End Development.
 - 📈 I am growth driven, always looking forward to learn and contribute.
@@ -21,12 +21,8 @@ My name is Teryn, but you can call me T! I'm a web developer.
 - Resume Builder: Building an application that allows you to input all your information and renders a PDF ready for job applications! (React, TypeScript, TailwindCSS, DaisyUI, React-PDF)
 - Patient Dashboard: Healthcare dashboard study (React, TypeScript, MaterialUI)
 
-
-
 <br/>
-
 <hr/>
-
 <br/>
 
 ### Languages & Markups
