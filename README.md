@@ -3,7 +3,7 @@
 <br/>
 
 My name is Teryn, but you can call me T! I am an FOSS enthusiast and wannabe sys admin.
-I am moving away from GitHub and into ![Codeberg](https://codeberg.org/dev_T). So there won't be much to see here!
+I am moving away from GitHub and into [Codeberg](https://codeberg.org/dev_T). So there won't be much to see here!
 
 ### If you are curious about me:
 
