@@ -2,16 +2,12 @@
 
 <br/>
 
-My name is Teryn, but you can call me T!
+My name is Teryn, but you can call me T! I am an FOSS enthusiast and wannabe sys admin.
+I am moving away from GitHub and into ![Codeberg](https://codeberg.org/dev_T). So there won't be much to see here!
 
 ### If you are curious about me:
 
 - 💼 Full Stack Web Developer at Dinify.
-- 🎓 Graduated from Langara College's Computer Science program.
-- 📈 I am growth driven, always looking forward to learn and contribute.
-- 🍜 Ramen is my favorite dish of all time.
-- ☕ Lots of coffee knowledge after 2+ years working at Starbucks.
-- 🎮 In my free time I love playing video games with my spouse. Specially Final Fantasty XIV!
 - 🖼 My profile picture was drawn by a friend and is a mix of me and the Magic The Gathering's character Teysa Karlov.
 
 <br/>
@@ -22,27 +18,26 @@ My name is Teryn, but you can call me T!
 
 ![HTML5](./assets/images/html5.svg)
 ![CSS3](./assets/images/css3.svg)
-![JavaScript](./assets/images/js.svg)
 ![TypeScript](./assets/images/ts.svg)
+![python](./assets/images/python.svg)
 ![GraphQL](./assets/images/graphql.svg)
 ![SQL](./assets/images/sql.svg)
-![Bash](./assets/images/bash.svg)
+
 
 <br/>
 
 ### Technologies
 
 ![React](./assets/images/react.svg)
-![Redux](./assets/images/redux.svg)
-![PostCSS](https://img.shields.io/badge/postcss-informational?style=for-the-badge&logo=postcss&color=151515)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&color=151515)
-![Next.js](https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&color=151515)
+![Redux](./assets/images/redux.svg)  <!-- Can we bury redux once and for all, please & thank you -->
+![PostCSS](./assets/images/postcss.svg)
+![TailwindCSS](./assets/images/tailwindcss.svg)
+![Next.js](./assets/images/nextjs.svg)
 ![ApolloGraphQL](./assets/images/apollographql.svg)
 ![Node.JS](./assets/images/nodejs.svg)
 ![Express](./assets/images/express.svg)
 ![Mongoose](./assets/images/mongoose.svg)
 ![MongoDB](./assets/images/mongodb.svg)
-![Redis](./assets/images/redis.svg)
 ![Sequelize](./assets/images/sequelize.svg)
 ![PostgreSQL](./assets/images/postgresql.svg)
 
@@ -50,18 +45,20 @@ My name is Teryn, but you can call me T!
 
 ### Tools
 
-![Vite](https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&color=151515)
+![Vite](./assets/images/vite.svg)
 ![ESLint](./assets/images/eslint.svg)
 ![Prettier](./assets/images/prettier.svg)
-![Storybook](https://img.shields.io/badge/storybook-informational?style=for-the-badge&logo=storybook&color=151515)
-![Jest](./assets/images/jest.svg)
+![Storybook](./assets/images/storybook.svg)
+![Vitest](./assets/images/vitest.svg)
 ![Cypress](./assets/images/cypress.svg)
-![Postman](./assets/images/postman.svg)
+![hoppscotch](./assets/images/hoppscotch.svg)  <!-- sashay away postman -->
 ![Docker](./assets/images/docker.svg)
 ![Git](./assets/images/git.svg)
-![GitHub](./assets/images/github.svg)
-![Visual Studio Code](./assets/images/vscode.svg)
-![Ubuntu](./assets/images/ubuntu.svg)
+![Codeberg](./assets/images/codeberg.svg)
+![Code - OSS](./assets/images/codeoss.svg)
+![zsh](./assets/images/zsh.svg)
+![Arch Linux](./assets/images/archlinux.svg)  <!-- I use arch btw -->
+![Linux](./assets/images/linux.svg)
 
 <hr/>
 
